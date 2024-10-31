@@ -7,7 +7,6 @@ coverage
 dist
 node_modules
 tsconfig.tsbuildinfo
-*.vitest-temp.json
 
 # local env files
 .env
